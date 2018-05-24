@@ -1,2 +1,5 @@
+Keras
+TensorFlow
+scipy
 h5py
-
+matplotlib
