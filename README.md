@@ -4,11 +4,11 @@ This is a keras implementation of YOLOv2 (YOLO9000). Original Paper : [YOLO9000]
 
 #### Requirements
 
-Keras
-TensorFlow
-scipy
-h5py
-matplotlib
+* Keras
+* TensorFlow
+* scipy
+* h5py
+* matplotlib
 
 #### Test
 
